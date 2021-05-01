@@ -1,0 +1,75 @@
+body {
+  margin: 1rem;
+}
+
+.quillStyle {
+  width: 50%;
+  justify-content: center;
+}
+
+.sidebarDiv {
+  width: 20rem;
+  border: 1px solid black;
+  overflow-y: scroll;
+  resize: vertical;
+  height: 22.5rem;
+}
+
+.ql-editor {
+  overflow-y: scroll;
+  resize: vertical;
+  height: 17.5rem;
+  width: 50rem;
+  margin-left: 2px;
+  padding-left: 5px;
+}
+
+.app .ql-container {
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+}
+
+.pageComponent {
+  display: flex;
+  padding: 5px;
+}
+
+.newNoteBtn {
+  width: 100%;
+  height: 2.5rem;
+  border: none;
+  background-color: rgb(60, 84, 153);
+  color: white;
+}
+
+.newNoteSubmitBtn {
+  width: 100%;
+  height: 2rem;
+  border: none;
+  background-color: rgb(37, 133, 133);
+  color: white;
+}
+
+.noteTitle {
+  width: 100%;
+  height: 2rem;
+  border: none;
+  background-color: transparent;
+}
+
+.headingBar {
+  width: 50rem;
+  height: 2.3rem;
+  background-color: rgb(60, 84, 153);
+  border: none;
+  color: white;
+}
+
+::placeholder {
+  color: white;
+}
+
+.editIcon {
+  background-color: rgb(60, 84, 153);
+  color: white;
+}
