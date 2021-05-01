@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evernote-clone/static/css/main.08456496.chunk.css",
+    "main.js": "/evernote-clone/static/js/main.a02c67ae.chunk.js",
+    "main.js.map": "/evernote-clone/static/js/main.a02c67ae.chunk.js.map",
+    "runtime-main.js": "/evernote-clone/static/js/runtime-main.61045242.js",
+    "runtime-main.js.map": "/evernote-clone/static/js/runtime-main.61045242.js.map",
+    "static/js/2.5d2eee58.chunk.js": "/evernote-clone/static/js/2.5d2eee58.chunk.js",
+    "static/js/2.5d2eee58.chunk.js.map": "/evernote-clone/static/js/2.5d2eee58.chunk.js.map",
+    "static/js/3.57ca7519.chunk.js": "/evernote-clone/static/js/3.57ca7519.chunk.js",
+    "static/js/3.57ca7519.chunk.js.map": "/evernote-clone/static/js/3.57ca7519.chunk.js.map",
+    "index.html": "/evernote-clone/index.html",
+    "static/css/main.08456496.chunk.css.map": "/evernote-clone/static/css/main.08456496.chunk.css.map",
+    "static/js/2.5d2eee58.chunk.js.LICENSE.txt": "/evernote-clone/static/js/2.5d2eee58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61045242.js",
+    "static/js/2.5d2eee58.chunk.js",
+    "static/css/main.08456496.chunk.css",
+    "static/js/main.a02c67ae.chunk.js"
+  ]
+}
